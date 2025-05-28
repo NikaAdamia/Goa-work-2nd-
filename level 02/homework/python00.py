@@ -1,0 +1,1 @@
+print('my hobby is mostly football i love playing it its a sport where it is 11vs11 and you play with a ball and whoewer scores the most wins')

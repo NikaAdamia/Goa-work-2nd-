@@ -1,0 +1,6 @@
+num1 = input("input your number: ")
+num2 = input("input your number: ")
+print(int(num1) + int(num2))
+print(int(num1) - int(num2))
+print(int(num1) * int(num2))
+print(int(num1) / int(num2))
