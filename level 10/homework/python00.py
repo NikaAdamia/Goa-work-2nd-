@@ -1,1 +1,1 @@
-print(True and not False and (False or True) and True or not False)
+# print(True and not False and (False or True) and True or not False) გამოიტანს True რადგან პირველი ბრჩხილებში სრულდება მოქმედება
